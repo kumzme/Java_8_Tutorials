@@ -3,3 +3,7 @@
 *.iml
 out
 /bin/
+/lib/
+/.idea/
+**/.idea/
+**/.idea/**
